@@ -1,50 +1,42 @@
 {
   "project_info": {
-    "project_number": "6317672023",
-    "firebase_url": "https://aavishkar-app.firebaseio.com",
-    "project_id": "aavishkar-app",
-    "storage_bucket": "aavishkar-app.appspot.com"
+    "project_number": "118728700746",
+    "firebase_url": "https://festapp-3db4d.firebaseio.com",
+    "project_id": "festapp-3db4d",
+    "storage_bucket": "festapp-3db4d.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:6317672023:android:f964a412fbabcb20",
+        "mobilesdk_app_id": "1:118728700746:android:09fec808d27a894f4e07b3",
         "android_client_info": {
-          "package_name": "com.app.aavishkar.aavishkarapp"
+          "package_name": "com.example.festappp"
         }
       },
       "oauth_client": [
         {
-          "client_id": "6317672023-h8e93p30lpr4c7jmsnfjtfae5oa8j09o.apps.googleusercontent.com",
+          "client_id": "118728700746-kvud51u2velmi15lhe1t8c0tl248gna4.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
-            "package_name": "com.app.aavishkar.aavishkarapp",
-            "certificate_hash": "daef85472508446684a71abdbe89e60f649299fb"
+            "package_name": "com.example.festappp",
+            "certificate_hash": "1f6bbe8d595a2b430a59a442610daf240059d25d"
           }
         },
         {
-          "client_id": "6317672023-j39rncahfn0u8331qo7at4lduagtaad8.apps.googleusercontent.com",
-          "client_type": 1,
-          "android_info": {
-            "package_name": "com.app.aavishkar.aavishkarapp",
-            "certificate_hash": "57418194dc27016c11e1761915a77c1ad47969d0"
-          }
-        },
-        {
-          "client_id": "6317672023-hirt906ngj5rqek090k4pt00id6rc2s3.apps.googleusercontent.com",
+          "client_id": "118728700746-vbkl4uojaf8pmbj6a75l72d832gg3g6j.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyBDFb5BHsQ_Iy8JN2NEfQY7R53PW-bctPc"
+          "current_key": "AIzaSyBV8w9u73MxorF9k_t7IgCmq4mn_nt9Su4"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "6317672023-hirt906ngj5rqek090k4pt00id6rc2s3.apps.googleusercontent.com",
+              "client_id": "118728700746-vbkl4uojaf8pmbj6a75l72d832gg3g6j.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
